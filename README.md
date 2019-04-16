@@ -21,3 +21,7 @@ For making nice-formated tables like this one:
 | ...           |         ... |
 
 https://ozh.github.io/ascii-tables/
+
+## License
+
+Public domain
