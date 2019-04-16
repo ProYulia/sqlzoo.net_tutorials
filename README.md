@@ -1,4 +1,4 @@
-# sqlzoo.net
+# SQLZoo
 
 SQLZoo includes tutorials and reference to support people learning SQL. Read more [there](https://sqlzoo.net/wiki/SQLZOO:About).
 
